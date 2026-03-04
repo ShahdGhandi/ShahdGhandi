@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="55%"/>
 
-# 👩🏻‍💻 Shahd Ghandy  
+# 👩🏻‍💻 Shahd Ghandi  
 ### .NET Full Stack Developer | OOP Specialist | Problem Solver 💙
 
 </div>
